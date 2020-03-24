@@ -1,22 +1,22 @@
 # Step 1  Creating Foundation
 
-$ cd Workspace
-$ mkdir project
-$ cd project
-$ mkdir src
-$ mkdir test
+$ cd Workspace <br/>
+$ mkdir project <br/>
+$ cd project <br/>
+$ mkdir src <br/>
+$ mkdir test <br/>
 
 ## Step 2 Creating New Dotnet Console
 
-$ cd src
-$ mkdir project (but with slightly different name)
-$ cd /src/project
-$ dotnet new console
+$ cd src <br/>
+$ mkdir project (but with slightly different name) <br/>
+$ cd /src/project <br/>
+$ dotnet new console <br/>
 
 
 ## Run The .Net Project
 
-Should originally output:
+Should originally output: <br/>
 ```bash
 "Hello World!"
 ```
