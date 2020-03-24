@@ -1,0 +1,12 @@
+/Users/emin/Desktop/Exercises/hello_world/src/bin/Debug/netcoreapp3.1/src.deps.json
+/Users/emin/Desktop/Exercises/hello_world/src/bin/Debug/netcoreapp3.1/src.runtimeconfig.json
+/Users/emin/Desktop/Exercises/hello_world/src/bin/Debug/netcoreapp3.1/src.runtimeconfig.dev.json
+/Users/emin/Desktop/Exercises/hello_world/src/bin/Debug/netcoreapp3.1/src.dll
+/Users/emin/Desktop/Exercises/hello_world/src/bin/Debug/netcoreapp3.1/src.pdb
+/Users/emin/Desktop/Exercises/hello_world/src/obj/Debug/netcoreapp3.1/src.csprojAssemblyReference.cache
+/Users/emin/Desktop/Exercises/hello_world/src/obj/Debug/netcoreapp3.1/src.csproj.CoreCompileInputs.cache
+/Users/emin/Desktop/Exercises/hello_world/src/obj/Debug/netcoreapp3.1/src.AssemblyInfoInputs.cache
+/Users/emin/Desktop/Exercises/hello_world/src/obj/Debug/netcoreapp3.1/src.AssemblyInfo.cs
+/Users/emin/Desktop/Exercises/hello_world/src/obj/Debug/netcoreapp3.1/src.dll
+/Users/emin/Desktop/Exercises/hello_world/src/obj/Debug/netcoreapp3.1/src.pdb
+/Users/emin/Desktop/Exercises/hello_world/src/obj/Debug/netcoreapp3.1/src.genruntimeconfig.cache
