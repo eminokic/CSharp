@@ -16,7 +16,10 @@ $ dotnet new console <br/>
 
 ## Run The .Net Project
 
+$ dotnet run <br/>
 Should originally output: <br/>
 ```bash
 "Hello World!"
 ```
+
+# Enjoy
