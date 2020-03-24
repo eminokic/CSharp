@@ -14,7 +14,7 @@ $ cd /src/project <br/>
 $ dotnet new console <br/>
 
 
-## Run The .Net Project
+## Step 3 Run The .Net Project
 
 $ dotnet run <br/>
 Should originally output: <br/>
@@ -22,4 +22,4 @@ Should originally output: <br/>
 "Hello World!"
 ```
 
-# Enjoy
+# Enjoy!
